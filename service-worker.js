@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Wisdom-Pet-Medicine/precache-manifest.b5dbc16c92492e9d099a2bc9aefbefbe.js"
+  "/Wisdom-Pet-Medicine/precache-manifest.331b3a5099213aa7a6e98d733b9981d7.js"
 );
 
 self.addEventListener('message', (event) => {
