@@ -11,6 +11,7 @@ class SearchAppointments extends React.Component{
                   type="tex t"
                   className="form-control"
                   aria-label="Search Appointments"
+                  onChange={ e=>this.props.searchItem(e.target.value)}  
                 />
                 <div className="input-group-append">
                   <button
